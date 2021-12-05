@@ -1,8 +1,8 @@
 #include <iostream>
 #include <cmath>
 #include <math.h>
-#include <vectors.h>
-#include <matrix.h>
+#include "../include/vectors.h"
+#include "../include/matrix.h"
 #include <iomanip>
 
 int main(int argc, char **argv) {
