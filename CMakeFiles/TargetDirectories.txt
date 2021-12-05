@@ -1,0 +1,4 @@
+/home/runner/CrazyLuminousPoints/CMakeFiles/rebuild_cache.dir
+/home/runner/CrazyLuminousPoints/CMakeFiles/edit_cache.dir
+/home/runner/CrazyLuminousPoints/CMakeFiles/copy-compile-commands.dir
+/home/runner/CrazyLuminousPoints/CMakeFiles/main.dir
